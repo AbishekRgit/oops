@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Learning.OOPS\Classes.csproj", "{87282881-A405-4CF5-8982-B8EB29CEEC75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class.Static", "Class.Static\Class.Static.csproj", "{A5D9E230-35E6-48CD-9110-C43341518BFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class.Static", "Class.Static\Class.Static.csproj", "{A5D9E230-35E6-48CD-9110-C43341518BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface.Inheritance", "Interface.Inheritance\Interface.Inheritance.csproj", "{0478C8D9-6057-4A9A-9402-B81A5FEA32EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A5D9E230-35E6-48CD-9110-C43341518BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5D9E230-35E6-48CD-9110-C43341518BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5D9E230-35E6-48CD-9110-C43341518BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0478C8D9-6057-4A9A-9402-B81A5FEA32EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0478C8D9-6057-4A9A-9402-B81A5FEA32EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0478C8D9-6057-4A9A-9402-B81A5FEA32EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0478C8D9-6057-4A9A-9402-B81A5FEA32EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
